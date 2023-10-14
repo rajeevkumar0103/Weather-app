@@ -1,3 +1,5 @@
 # Weather-app
-First api based project developed using Javascript
-learn  so many concept of styling in css
+
+<P>First api based project developed using Html, Css, Javascript</p>
+<p?>API fetching through API key in Javascript</p>
+<p>Show weather of Searched Loaction</p>
